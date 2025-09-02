@@ -38,8 +38,3 @@ def plot_2(xn, xn_rec, N) -> None:
     plt.xlabel('n'); plt.ylabel('amplitude'); plt.title('Sinal C com 4096 amostras')
     plt.xlim(0, 1000)
     plt.legend(); plt.tight_layout(); plt.show()
-
-
-
-
-
